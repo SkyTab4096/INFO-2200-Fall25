@@ -11,7 +11,7 @@ By submitting this assignment, I declare that the source code contained in this 
 '''
 
 def initialize(): # Defines a function to initialize the program
-    with open('M01/statecaps.txt', "r", newline="") as file: # Opens the statecaps.txt file
+    with open('statecaps.txt', "r", newline="") as file: # Opens the statecaps.txt file
         states = file.readlines() # Stores the contents of the file
     states.pop(0) # Removes the first line of the file that was the header
     statesCaps = [] # Defines an empty array to store the states with their capital as a 2 dimentional array
