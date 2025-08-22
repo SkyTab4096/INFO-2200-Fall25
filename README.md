@@ -2,3 +2,4 @@
 
 ## Completed Assignments
 - M01 Participation
+- M01 Assignment
