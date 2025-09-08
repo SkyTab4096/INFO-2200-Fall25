@@ -1,0 +1,4 @@
+College,City
+Utah Valley University,Orem
+Brigham Young University,Provo
+The University of Utah,Salt Lake City
