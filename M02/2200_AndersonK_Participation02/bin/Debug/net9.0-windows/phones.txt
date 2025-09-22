@@ -1,0 +1,2 @@
+Apple,iPhone X,5.8",256GB,1200
+OnePlus,OnePlus 5,6.0",256GB,700
