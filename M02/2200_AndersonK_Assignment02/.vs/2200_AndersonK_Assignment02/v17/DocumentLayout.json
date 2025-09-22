@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91E8E4FB-9AAF-4EA2-AE7C-860889677E83}|2200_AndersonK_Assignment02.csproj|c:\\users\\kory\\source\\repos\\2200_andersonk_assignment02\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91E8E4FB-9AAF-4EA2-AE7C-860889677E83}|2200_AndersonK_Assignment02.csproj|solutionrelative:detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E8E4FB-9AAF-4EA2-AE7C-860889677E83}|2200_AndersonK_Assignment02.csproj|c:\\users\\kory\\source\\repos\\2200_andersonk_assignment02\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E8E4FB-9AAF-4EA2-AE7C-860889677E83}|2200_AndersonK_Assignment02.csproj|solutionrelative:detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E8E4FB-9AAF-4EA2-AE7C-860889677E83}|2200_AndersonK_Assignment02.csproj|c:\\users\\kory\\source\\repos\\2200_andersonk_assignment02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91E8E4FB-9AAF-4EA2-AE7C-860889677E83}|2200_AndersonK_Assignment02.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E8E4FB-9AAF-4EA2-AE7C-860889677E83}|2200_AndersonK_Assignment02.csproj|c:\\users\\kory\\source\\repos\\2200_andersonk_assignment02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E8E4FB-9AAF-4EA2-AE7C-860889677E83}|2200_AndersonK_Assignment02.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E8E4FB-9AAF-4EA2-AE7C-860889677E83}|2200_AndersonK_Assignment02.csproj|c:\\users\\kory\\source\\repos\\2200_andersonk_assignment02\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E8E4FB-9AAF-4EA2-AE7C-860889677E83}|2200_AndersonK_Assignment02.csproj|solutionrelative:food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment02\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DetailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment02\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "DetailWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T05:37:06.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment02\\Food.cs",
+              "RelativeDocumentMoniker": "Food.cs",
+              "ToolTip": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment02\\Food.cs",
+              "RelativeToolTip": "Food.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAewCEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T05:02:07.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment02\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "DetailWindow.xaml",
+              "ToolTip": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment02\\DetailWindow.xaml",
+              "RelativeToolTip": "DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-22T04:34:20.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment02\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment02\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-22T04:16:51.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment02\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment02\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAEwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T04:16:49.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

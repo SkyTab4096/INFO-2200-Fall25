@@ -4,3 +4,4 @@
 - M01 Participation
 - M01 Assignment
 - M02 Participation
+- M02 Assignment
