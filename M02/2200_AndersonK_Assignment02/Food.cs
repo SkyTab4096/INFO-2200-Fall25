@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+Name: Kory Anderson
+Class: INFO 2200
+Section: 001
+Professor: Sharp
+Date: September 23, 2025
+Participation or Assignment #: 02
+By submitting this assignment, I declare that the source code contained in this assignment was written solely by me, unless specifically provided in the assignment. I attest that no part of this assignment, in whole or in part, was directly created by Generative AI, unless explicitly stated in the assignment instructions, nor obtained from a subscription service. I understand that copying any source code, in whole or in part, unless specifically provided in the assignment, constitutes cheating, and that I will receive a zero on this project if I am found in violation of this policy.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,8 +16,15 @@ using System.Threading.Tasks;
 
 namespace _2200_AndersonK_Assignment02
 {
+    /// <summary>
+    /// Creates the Food class
+    /// </summary>
     public class Food
     {
+        /// <summary>
+        /// Defines the method to set what is stored as a part of the Food class
+        /// </summary>
+        /// <param name="foodArray"></param>
         public Food(string[] foodArray)
         {
             foodName = foodArray[0];
@@ -39,6 +56,9 @@ namespace _2200_AndersonK_Assignment02
             vitC = double.Parse(foodArray[26]);
             foodType = foodArray[27];
         }
+        /// <summary>
+        /// Defines the different objects that are stored in the Food class
+        /// </summary>
         public string foodName { get; set; }
         public double calcium { get; set; }
         public string servingSize { get; set; }
@@ -53,17 +73,17 @@ namespace _2200_AndersonK_Assignment02
         public double saturateFat { get; set; }
         public double monosatFat { get; set; }
         public double polyunsatFat { get; set; }
-        public double iron {  get; set; }
+        public double iron { get; set; }
         public double magnesium { get; set; }
         public double sodium { get; set; }
         public double phosphorous { get; set; }
         public double capRation { get; set; }
         public double potassium { get; set; }
-        public double zinc {  get; set; }
+        public double zinc { get; set; }
         public double niacin { get; set; }
         public double thiamin { get; set; }
         public double riboflavin { get; set; }
-        public double vitA {  get; set; }
+        public double vitA { get; set; }
         public double vitB6 { get; set; }
         public double vitC { get; set; }
         public string foodType { get; set; }
