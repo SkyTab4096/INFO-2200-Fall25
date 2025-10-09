@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <RootNamespace>_2200_AndersonK_Assignment03</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Cat.jpg" />
+    <None Remove="Images\Dog.jpg" />
+    <None Remove="Images\Horse.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Cat.jpg" />
+    <Resource Include="Images\Dog.jpg" />
+    <Resource Include="Images\Horse.jpg" />
+  </ItemGroup>
+
+</Project>
