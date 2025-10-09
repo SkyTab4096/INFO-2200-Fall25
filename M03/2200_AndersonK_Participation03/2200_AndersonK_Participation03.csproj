@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <RootNamespace>_2200_AndersonK_Participation03</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\desert.png" />
+    <None Remove="Images\forest.png" />
+    <None Remove="Images\rose.png" />
+    <None Remove="Images\shrub.png" />
+    <None Remove="Images\tree.jpg" />
+    <None Remove="Images\tropical.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\desert.png" />
+    <Resource Include="Images\forest.png" />
+    <Resource Include="Images\rose.png" />
+    <Resource Include="Images\shrub.png" />
+    <Resource Include="Images\tree.jpg" />
+    <Resource Include="Images\tropical.jpg" />
+  </ItemGroup>
+
+</Project>
