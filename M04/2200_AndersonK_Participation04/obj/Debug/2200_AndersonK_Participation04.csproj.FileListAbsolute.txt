@@ -1,0 +1,15 @@
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\bin\Debug\LocalPhoneListDb.mdf
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\bin\Debug\LocalPhoneListDb_log.ldf
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\bin\Debug\2200_AndersonK_Participation04.exe.config
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\bin\Debug\2200_AndersonK_Participation04.exe
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\bin\Debug\2200_AndersonK_Participation04.pdb
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\obj\Debug\2200_AndersonK_Participation04.csproj.AssemblyReference.cache
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\obj\Debug\_2200_AndersonK_Participation04.LandingForm.resources
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\obj\Debug\_2200_AndersonK_Participation04.LocalPhoneNumbersForm.resources
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\obj\Debug\_2200_AndersonK_Participation04.Properties.Resources.resources
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\obj\Debug\2200_AndersonK_Participation04.csproj.GenerateResource.cache
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\obj\Debug\2200_AndersonK_Participation04.csproj.CoreCompileInputs.cache
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\obj\Debug\2200_AndersonK_Participation04.exe
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\obj\Debug\2200_AndersonK_Participation04.pdb
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\obj\Debug\2200_AndersonK_Participation04.exe.config
+C:\Users\Kory\source\repos\2200_AndersonK_Participation04\obj\Debug\_2200_AndersonK_Participation04.UVUPhoneListForm.resources

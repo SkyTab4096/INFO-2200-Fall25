@@ -1,0 +1,15 @@
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/bin/Debug/net9.0/2200_AndersonK_MidtermExam
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/bin/Debug/net9.0/2200_AndersonK_MidtermExam.deps.json
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/bin/Debug/net9.0/2200_AndersonK_MidtermExam.runtimeconfig.json
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/bin/Debug/net9.0/2200_AndersonK_MidtermExam.dll
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/bin/Debug/net9.0/2200_AndersonK_MidtermExam.pdb
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/obj/Debug/net9.0/2200_AndersonK_MidtermExam.GeneratedMSBuildEditorConfig.editorconfig
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/obj/Debug/net9.0/2200_AndersonK_MidtermExam.AssemblyInfoInputs.cache
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/obj/Debug/net9.0/2200_AndersonK_MidtermExam.AssemblyInfo.cs
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/obj/Debug/net9.0/2200_AndersonK_MidtermExam.csproj.CoreCompileInputs.cache
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/obj/Debug/net9.0/2200_AndersonK_MidtermExam.sourcelink.json
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/obj/Debug/net9.0/2200_AndersonK_MidtermExam.dll
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/obj/Debug/net9.0/refint/2200_AndersonK_MidtermExam.dll
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/obj/Debug/net9.0/2200_AndersonK_MidtermExam.pdb
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/obj/Debug/net9.0/2200_AndersonK_MidtermExam.genruntimeconfig.cache
+/home/school/vscode/INFO 2200/2200_AndersonK_MidtermExam/2200_AndersonK_MidtermExam/obj/Debug/net9.0/ref/2200_AndersonK_MidtermExam.dll
