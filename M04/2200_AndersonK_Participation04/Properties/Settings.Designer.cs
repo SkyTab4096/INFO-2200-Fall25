@@ -37,22 +37,23 @@ namespace _2200_AndersonK_Participation04.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Kory\\Downloads\\UVUPh" +
-            "oneNums.mdf;Integrated Security=True;Connect Timeout=30")]
-        public string UVUPhoneListConnectionString {
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=bigdataa.ad.uvu.edu;Initial Catalog=INFO2200_CrandallSay;Persist Secu" +
+            "rity Info=True;User ID=jbmuser;Password=jellybellymovie;TrustServerCertificate=T" +
+            "rue")]
+        public string INFO2200_CrandallSayConnectionString {
             get {
-                return ((string)(this["UVUPhoneListConnectionString"]));
+                return ((string)(this["INFO2200_CrandallSayConnectionString"]));
             }
         }
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Kory\\Downloads\\UVUPh" +
-            "oneNums.mdf;Integrated Security=True;Connect Timeout=30")]
-        public string UVUPhoneNumsConnectionString {
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\UVUPhoneNums." +
+            "mdf;Integrated Security=True;Connect Timeout=30")]
+        public string UVUPhoneNumsConnectionString1 {
             get {
-                return ((string)(this["UVUPhoneNumsConnectionString"]));
+                return ((string)(this["UVUPhoneNumsConnectionString1"]));
             }
         }
     }

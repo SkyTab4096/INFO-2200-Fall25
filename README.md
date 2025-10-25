@@ -7,3 +7,5 @@
 - M02 Assignment
 - M03 Participation
 - M03 Assignment
+- Midterm
+- M04 Participation

@@ -25,13 +25,19 @@ namespace _2200_AndersonK_Participation04
 
         private void ImportedBtn_Click(object sender, EventArgs e)
         {
-            UVUPhoneListForm uplf = new UVUPhoneListForm();
+            UVUPhoneNumbersForm uplf = new UVUPhoneNumbersForm();
             uplf.ShowDialog();
         }
 
         private void CloseBtn_Click(object sender, EventArgs e)
         {
             Close();
+        }
+
+        private void OnlineBtn_Click(object sender, EventArgs e)
+        {
+            OnlinePhoneNumsForm opnf = new OnlinePhoneNumsForm();
+            opnf.ShowDialog();
         }
     }
 }

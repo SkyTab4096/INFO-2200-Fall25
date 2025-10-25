@@ -59,6 +59,7 @@
             this.OnlineBtn.Text = "Online Phone Numbers";
             this.OnlineBtn.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
             this.OnlineBtn.UseVisualStyleBackColor = false;
+            this.OnlineBtn.Click += new System.EventHandler(this.OnlineBtn_Click);
             // 
             // ImportedBtn
             // 
