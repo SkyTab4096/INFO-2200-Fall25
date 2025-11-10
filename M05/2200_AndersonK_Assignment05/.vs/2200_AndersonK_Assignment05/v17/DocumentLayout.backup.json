@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\InsertIntoQuery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InsertIntoQuery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|c:\\users\\kory\\source\\repos\\2200_andersonk_assignment05\\jellybellyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|solutionrelative:jellybellyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|c:\\users\\kory\\source\\repos\\2200_andersonk_assignment05\\jellybellydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|solutionrelative:jellybellydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|c:\\users\\kory\\source\\repos\\2200_andersonk_assignment05\\landingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|solutionrelative:landingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|c:\\users\\kory\\source\\repos\\2200_andersonk_assignment05\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|solutionrelative:categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|solutionrelative:categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|c:\\users\\kory\\source\\repos\\2200_andersonk_assignment05\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\jellybellyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|solutionrelative:jellybellyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\landingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{604AC05C-EDCD-483D-AA85-3C7A57E68322}|2200_AndersonK_Assignment05.csproj|solutionrelative:landingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\InsertIntoQuery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InsertIntoQuery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\InsertIntoQuery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InsertIntoQuery.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JellyBellyForm.cs",
+              "DocumentMoniker": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\JellyBellyForm.cs",
+              "RelativeDocumentMoniker": "JellyBellyForm.cs",
+              "ToolTip": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\JellyBellyForm.cs",
+              "RelativeToolTip": "JellyBellyForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:04:26.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesForm.cs",
+              "DocumentMoniker": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\CategoriesForm.cs",
+              "RelativeDocumentMoniker": "CategoriesForm.cs",
+              "ToolTip": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\CategoriesForm.cs",
+              "RelativeToolTip": "CategoriesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:04:12.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LandingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\LandingForm.cs",
+              "RelativeDocumentMoniker": "LandingForm.cs",
+              "ToolTip": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\LandingForm.cs",
+              "RelativeToolTip": "LandingForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:02:50.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:42:57.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JellyBellyDB.cs",
+              "DocumentMoniker": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\JellyBellyDB.cs",
+              "RelativeDocumentMoniker": "JellyBellyDB.cs",
+              "ToolTip": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\JellyBellyDB.cs",
+              "RelativeToolTip": "JellyBellyDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:37:13.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\CategoriesForm.cs",
+              "RelativeDocumentMoniker": "CategoriesForm.cs",
+              "ToolTip": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\CategoriesForm.cs [Design]",
+              "RelativeToolTip": "CategoriesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:32:33.758Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JellyBellyForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\JellyBellyForm.cs",
+              "RelativeDocumentMoniker": "JellyBellyForm.cs",
+              "ToolTip": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\JellyBellyForm.cs [Design]",
+              "RelativeToolTip": "JellyBellyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:20:40.917Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LandingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\LandingForm.cs",
+              "RelativeDocumentMoniker": "LandingForm.cs",
+              "ToolTip": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\LandingForm.cs [Design]",
+              "RelativeToolTip": "LandingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:05:54.507Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertIntoQuery.sql ",
+              "DocumentMoniker": "C:\\Users\\Kory\\source\\repos\\2200_AndersonK_Assignment05\\InsertIntoQuery.sql",
+              "RelativeDocumentMoniker": "InsertIntoQuery.sql",
+              "ToolTip": "InsertIntoQuery.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-10T18:52:57.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
