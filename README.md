@@ -12,3 +12,4 @@
 - M04 Assignment
 - M05 Participation
 - M05 Assignment
+- M06 Participation
