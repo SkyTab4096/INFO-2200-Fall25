@@ -1,0 +1,10 @@
+C:\Users\Kory\source\repos\2200_AndersonK_Assignment06\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\Kory\source\repos\2200_AndersonK_Assignment06\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\Kory\source\repos\2200_AndersonK_Assignment06\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\Kory\source\repos\2200_AndersonK_Assignment06\ClientApplication\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\Kory\source\repos\2200_AndersonK_Assignment06\ClientApplication\obj\Debug\ClientApplication.landingForm.resources
+C:\Users\Kory\source\repos\2200_AndersonK_Assignment06\ClientApplication\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\Kory\source\repos\2200_AndersonK_Assignment06\ClientApplication\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\Kory\source\repos\2200_AndersonK_Assignment06\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Kory\source\repos\2200_AndersonK_Assignment06\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\Kory\source\repos\2200_AndersonK_Assignment06\ClientApplication\obj\Debug\ClientApplication.pdb
