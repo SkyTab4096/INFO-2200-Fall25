@@ -15,3 +15,4 @@
 - M06 Participation
 - M06 Assignment
 - M07 Participation
+- M07 Assignment
